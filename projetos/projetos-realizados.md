@@ -1,6 +1,6 @@
 # Projetos e experiências técnicas
 
-Esta página reúne projetos que demonstram contato com sistemas digitais, organização de informações e desenvolvimento de soluções.
+Esta página reúne projetos que demonstram contato com sistemas digitais, organização de informações e desenvolvimento de soluções, além de experiências profissionais relevantes.
 
 ## Atlético Champions
 
@@ -26,9 +26,14 @@ Projeto experimental criado com Google AI Studio. A descrição técnica será d
 
 Contato profissional com Gdoor, Velo e Digisat. A experiência está relacionada ao uso operacional desses sistemas; este portfólio não afirma atuação como administrador ou desenvolvedor dessas plataformas.
 
-## Experiência de organização e suporte
+## Experiência profissional relevante
 
-Atuação como Agente Censitário Supervisor no IBGE, com acompanhamento de atividades, organização de rotinas e suporte às equipes de campo.
+- **IBGE — Agente Censitário Supervisor, Censo 2022:** acompanhamento de atividades de campo, organização de rotinas, orientação e suporte às equipes.
+- **JRM Informática:** experiência profissional no segmento de informática.
+- **Fagundes Mineração:** experiência profissional no setor de mineração.
+- **Americanas — Operador de Loja, desde julho de 2026:** atendimento ao cliente, operação de loja e apoio às atividades comerciais.
+
+As funções e atividades específicas de JRM Informática e Fagundes Mineração serão complementadas após revisão das informações profissionais.
 
 ---
 Novos projetos serão documentados com objetivo, contexto, tecnologias efetivamente utilizadas, funcionalidades, desafios e aprendizados.
