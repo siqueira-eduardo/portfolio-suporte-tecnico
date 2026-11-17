@@ -16,7 +16,7 @@ Atualmente curso Tecnologia em Gestão Pública Municipal e direciono meus estud
 
 - **Técnico em Informática.**
 - **Técnico em Administração.**
-- **Tecnologia em Gestão Pública Municipal** — Unioeste, em andamento (informação a confirmar com o registro acadêmico atualizado).
+- **Bacharelado em Tecnologia da Informação** — Universidade Federal de Mato Grosso do Sul (UFMS), em andamento (2024–2028).
 - **Licenciatura em Química** — curso iniciado em 2018 e não concluído; não apresentada como graduação concluída.
 
 ## Experiência profissional
