@@ -4,6 +4,8 @@
 
 Este repositório reúne documentação técnica, procedimentos de atendimento, estudos e projetos relacionados a suporte ao usuário e tecnologia da informação.
 
+**LinkedIn:** [Eduardo Silva de Siqueira](https://br.linkedin.com/in/eduardo-silva-de-siqueira-b7a44627a)
+
 ## Perfil profissional
 
 Tenho formação técnica em Informática e Administração, experiência com atendimento ao usuário e utilização operacional de sistemas ERP, incluindo Gdoor, Velo e Digisat. Minha trajetória também inclui atividades de supervisão e organização de equipes no IBGE e experiências nos setores de informática, mineração e varejo.
@@ -14,7 +16,7 @@ Atualmente curso Tecnologia em Gestão Pública Municipal e direciono meus estud
 
 - **Técnico em Informática.**
 - **Técnico em Administração.**
-- **Tecnologia em Gestão Pública Municipal** — Unioeste, em andamento.
+- **Tecnologia em Gestão Pública Municipal** — Unioeste, em andamento (informação a confirmar com o registro acadêmico atualizado).
 - **Licenciatura em Química** — curso iniciado em 2018 e não concluído; não apresentada como graduação concluída.
 
 ## Experiência profissional
@@ -22,7 +24,7 @@ Atualmente curso Tecnologia em Gestão Pública Municipal e direciono meus estud
 - **IBGE — Agente Censitário Supervisor (Censo 2022):** acompanhamento das atividades de campo, organização de rotinas, orientação e suporte às equipes.
 - **JRM Informática:** experiência profissional no segmento de informática.
 - **Fagundes Mineração:** experiência profissional no setor de mineração.
-- **Americanas — Operador de Loja (desde julho de 2026):** atendimento ao cliente, operação de loja e apoio às atividades comerciais.
+- **Americanas — Operador de Loja:** atendimento ao cliente, operação de loja e apoio às atividades comerciais.
 
 As descrições serão detalhadas à medida que funções, períodos e atividades específicas forem revisados.
 
@@ -52,9 +54,18 @@ As descrições serão detalhadas à medida que funções, períodos e atividade
 - [Calculadora](https://github.com/siqueira-eduardo/Calculadora-) — projeto de prática de programação.
 - [Agenda](https://github.com/siqueira-eduardo/Agenda) — projeto experimental criado com Google AI Studio.
 
-## Cursos complementares e certificados
+## Cursos, certificados e qualificações
 
-Esta seção será atualizada com os cursos, instituições, cargas horárias e datas após conferência dos certificados e comprovantes.
+Informações identificadas na seção pública de Licenças e certificados do LinkedIn; títulos, instituições e datas devem ser conferidos nos comprovantes originais antes de uso formal em processos seletivos.
+
+| Certificação / curso | Instituição indicada | Emissão |
+|---|---|---|
+| Ordem de Serviço - Segurança no Trabalho em Lojas | INSPAND | Ago. 2026 |
+| Assistente de Suporte de Informática | FAT - Faculdade e Escola | Set. 2024 |
+| Excel: PROCV e PROCX para Principiantes | LinkedIn | Ago. 2024 |
+| Introdução a Banco de Dados Relacionais (SQL) | DIO | Ago. 2024 |
+| CCNA: Introduction to Networks | Cisco | Jun. 2022 |
+| Excel 2019: Fórmulas e Funções Avançadas | LinkedIn | Fev. 2022 |
 
 ## Contato
 
